@@ -76,3 +76,9 @@ Full animation system for entrances, continuous effects, interactions, and decor
 ## License
 
 MIT - Part of the [2389 Research Claude Plugins Marketplace](https://github.com/2389-research/claude-plugins)
+
+---
+
+If this helped you ship a page that doesn't look like every other AI-generated landing page, a ⭐ helps us know it's landing.
+
+Built by [2389](https://2389.ai) · Part of the [Claude Code plugin marketplace](https://github.com/2389-research/claude-plugins)
