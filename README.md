@@ -5,6 +5,7 @@ Build landing pages that don't look like every other AI-generated page.
 ## Installation
 
 ```bash
+/plugin marketplace add 2389-research/claude-plugins
 /plugin install landing-page-design@2389-research
 ```
 
