@@ -105,7 +105,7 @@ CTAs continue the hero's story. "Find food near me" not "Get started." "Start de
 
 ## Implementation Phases
 
-1. **Research & Collect** - Gather references, choose fonts/icons/colors
+1. **Discovery & Strategy** - Run Vibe Discovery and Copy Strategy, gather references, choose fonts/icons/colors
 2. **Hero Development** - Build and iterate until distinctive
 3. **Section Build-Out** - Add sections one at a time
 4. **Polish** - Responsive, performance, accessibility

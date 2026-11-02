@@ -1,6 +1,6 @@
 ---
 name: landing-page-design
-description: Create high-converting, visually distinctive landing pages. Use when building marketing pages, product launches, SaaS homepages, or any single-page conversion-focused website. Guides section-by-section composition with anti-AI-slop principles.
+description: Designs high-converting, visually distinctive landing pages using Vibe Discovery for unique per-project aesthetics and a structured copy strategy framework to maximize conversions. Use when building marketing pages, product launches, SaaS homepages, or hero sections; or when avoiding generic AI-looking design and anti-slop principles matter.
 ---
 
 # Landing Page Design
@@ -155,24 +155,7 @@ WILDCARD:
 
 ### Inspiration Starters (When Stuck on Q1)
 
-**Spaces:**
-Night market in Bangkok | Empty museum at closing | Airport lounge at 4am |
-Vintage record store | Hospital waiting room | Casino floor |
-Greenhouse in winter | Subway platform | Observatory dome |
-Abandoned factory | Luxury yacht interior | 24-hour laundromat |
-Library rare books room | Auto body shop | Space station module
-
-**Objects:**
-1980s synthesizer | Surgical instruments | Vintage luggage |
-Racing motorcycle | Antique compass | Industrial loom |
-Neon sign | Typewriter | Scientific glassware |
-Leather-bound book | Circuit board | Porcelain dishware
-
-**Eras/Movements:**
-Soviet constructivism | Memphis design | Swiss international |
-Art nouveau | Bauhaus | De Stijl |
-Googie architecture | Streamline moderne | Brutalism |
-Japanese metabolism | Scandinavian modernism | Italian futurism
+See [references/inspiration-starters.md](references/inspiration-starters.md) for spaces, objects, and eras/movements to use as your Q1 starting point.
 
 ---
 
@@ -460,25 +443,7 @@ Bold alternatives:
 
 ## Design Resources
 
-### Hero Inspiration
-- **Superhero** (superhero.design): Curated hero sections
-- **Dribbble**: Search "hero section", "landing page"
-- **Awwwards**: Award-winning designs
-
-### Section Patterns
-- **Mobin**: Real websites with section breakdowns
-- **Bento Grids**: Card layout inspiration
-- **CTA Gallery**: Call-to-action patterns
-
-### Typography
-- **Google Fonts**: Free, AI-accessible fonts
-- **Fontshare**: Free quality fonts
-- **H1 Gallery**: Headline inspiration
-
-### Icons & Logos
-- **Iconify**: Unified icon API (Solar, Heroicons, etc.)
-- **Simple Icons**: Brand logos (SVG)
-- **Heroicons**: Tailwind's icon set
+See [references/design-resources.md](references/design-resources.md) for hero galleries, section pattern libraries, typography, and icon sources.
 
 ## Implementation Workflow
 
@@ -516,39 +481,7 @@ Bold alternatives:
 
 ## Prompt Patterns
 
-### Hero Generation
-```
-Create a hero section for [PRODUCT TYPE].
-Change text, names, and numbers to fit [BRAND].
-Use Iconify Solar icons (duotone style).
-Use [FONT] for headlines.
-Add vertical container-size grid lines.
-Add 01, 02, 03 step indicators for sophistication.
-Use [COLOR] as primary, dark mode.
-```
-
-### Section Addition
-```
-Adapt a new [SECTION TYPE] section.
-Match the hero's color scheme and typography.
-Use marquee animation for logos.
-Add fade-in blur-in entrance animation.
-Keep the hero exactly as is.
-```
-
-### Animation Enhancement
-```
-Add beam animation to the primary button border.
-The beam should be 1px, continuously traveling around the pill shape.
-Add a subtle hover-lift effect to feature cards.
-```
-
-### Negative Prompts (What NOT to change)
-```
-Don't change the hero section.
-Keep the navbar exactly as is.
-Don't modify the existing animations.
-```
+See [references/prompt-patterns.md](references/prompt-patterns.md) for reusable prompt templates covering hero generation, section addition, animation enhancement, and negative constraints.
 
 ## Quality Checklist
 
